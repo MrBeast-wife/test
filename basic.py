@@ -1,0 +1,2 @@
+x = "pandu"
+print(x)
