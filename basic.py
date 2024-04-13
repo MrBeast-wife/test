@@ -1,2 +1,2 @@
-x = "pandu"
+x = "kasi"
 print(x)
